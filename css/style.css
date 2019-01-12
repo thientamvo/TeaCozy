@@ -77,7 +77,7 @@ main {
 }
 /*--Locations section--*/
 #locations {
-  background-image: url(../resources/Locations-background.jpg);
+  background-image: url(../resources/locations-background.jpg);
   background-size: cover;
   height: 570px;
   width: 1200px;
